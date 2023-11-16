@@ -1,0 +1,11 @@
+{
+  "name": "@lucasaugustsof/ts-config",
+  "version": "0.1.0",
+  "description": "Optimized settings for TypeScript-based projects",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "index.js",
+  "keywords": ["typescript", "config", "tsc"],
+  "license": "MIT"
+}
