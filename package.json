@@ -1,6 +1,6 @@
 {
 	"name": "@lucasaugustsof/ts-config",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"description": "Predefined configs for my TypeScript projects.",
 	"author": {
 		"name": "Lucas Augusto",
@@ -11,6 +11,9 @@
 		"predefined",
 		"ts-config"
 	],
+	"publishConfig": {
+		"access": "public"
+	},
 	"exports": {
 		"./*.json": "./*.json"
 	},
