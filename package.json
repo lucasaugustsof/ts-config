@@ -1,9 +1,21 @@
 {
 	"name": "@lucasaugustsof/ts-config",
 	"version": "0.1.0",
-	"description": "",
+	"description": "Predefined configs for my TypeScript projects.",
+	"author": {
+		"name": "Lucas Augusto",
+		"url": "https://github.com/lucasaugustsof"
+	},
+	"keywords": [
+		"typescript",
+		"predefined",
+		"ts-config"
+	],
 	"exports": {
 		"./*.json": "./*.json"
+	},
+	"peerDependencies": {
+		"typescript": ">=5"
 	},
 	"license": "MIT"
 }
