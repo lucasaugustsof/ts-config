@@ -1,0 +1,9 @@
+{
+	"name": "@lucasaugustsof/ts-config",
+	"version": "0.1.0",
+	"description": "",
+	"exports": {
+		"./*.json": "./*.json"
+	},
+	"license": "MIT"
+}
